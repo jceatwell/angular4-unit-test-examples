@@ -1,3 +1,5 @@
+This is the code from the article: https://medium.com/swlh/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4  by Santiago García da Rosa
+
 # AngularKarmaJasmine
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
@@ -26,3 +28,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+# For GitLab configuration
+
+https://angular.io/guide/testing
